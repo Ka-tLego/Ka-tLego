@@ -7,7 +7,6 @@ I'm a Computer Science student specializing in **Software Engineering**, passion
 Outside of academics, I enjoy exploring new technologies, building projects, and challenging myself through pursuits like rugby, cybersecurity, and problem-solving. I believe software is more than just writing code—it's about creating solutions that are reliable, scalable, and meaningful.
 
 ## 🎓 About Me
-
 * 📚 Computer Science student specializing in Software Engineering
 * 💻 Interested in software development, system design, and emerging technologies
 * 🔐 Exploring cybersecurity and AI applications
@@ -15,7 +14,6 @@ Outside of academics, I enjoy exploring new technologies, building projects, and
 * 🌍 Based in South Africa
 
 ## 🛤️ My Tech Journey
-
 My introduction to programming began with a simple question:
 
 > *"How do computers think?"*
@@ -28,59 +26,22 @@ Today, my focus is on becoming a well-rounded software engineer with experience 
 * Cybersecurity
 * Artificial Intelligence & Machine Learning
 * System Design
-* Cloud Technologies
 * Data Science
 * Open Source Contributions
 
 My goal is to build software that solves real-world problems while continuing to grow as both an engineer and a leader.
 
-## 🧰 Tech Stack
-
-```text
-(Add your technologies here)
-
-Languages:
-- 
-
-Frontend:
-- 
-
-Backend:
-- 
-
-Databases:
-- 
-
-Tools & Platforms:
-- 
-
-Cloud & DevOps:
-- 
-```
+## 🛠️ Tech Stack
+* Languages: Python, JavaScript, Java, C#
+* Frameworks: React, Node.js, Django
+* Tools: Git, Docker, VS Code, VS Studio, NetBeans
 
 ## 🚧 Featured Projects
-
-```text
-(Add your projects here)
-
-1. Project Name
-   - Short description
-   - Technologies used
-   - Link
-
-2. Project Name
-   - Short description
-   - Technologies used
-   - Link
-
-3. Project Name
-   - Short description
-   - Technologies used
-   - Link
-```
+- **[Project 1](link)** - Brief description
+- **[Project 2](link)** - Brief description
+- **[Project 3](link)** - Brief description
 
 ## 📈 Currently Working On
-
 * Improving my software engineering skills
 * Building impactful personal projects
 * Learning more about cybersecurity and AI
@@ -88,11 +49,5 @@ Cloud & DevOps:
 * Contributing to open-source projects
 
 ## 📫 Let's Connect
-
-* LinkedIn: (Add Link)
-* Email: (Add Email)
-* Portfolio: (Add Link)
-
+* Email: **[Katlego.obisi@gmail.com](link)**
 ---
-
-> *"The expert in anything was once a beginner who refused to quit."*
