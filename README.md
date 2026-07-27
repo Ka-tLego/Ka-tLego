@@ -1,10 +1,10 @@
 # Hi, I'm Katlego 👋
 
-> *"Building systems, solving problems, and constantly chasing the next level—both in tech and in life."*
+> *"Building systems, solving problems, and constantly chasing the next level both in tech and in life."*
 
 I'm a Computer Science student specializing in **Software Engineering**, passionate about designing software that makes an impact. My journey in technology is driven by curiosity, discipline, and a desire to continuously improve.
 
-Outside of academics, I enjoy exploring new technologies, building projects, and challenging myself through pursuits like rugby, cybersecurity, and problem-solving. I believe software is more than just writing code—it's about creating solutions that are reliable, scalable, and meaningful.
+Outside of academics, I enjoy exploring new technologies, building projects, and challenging myself through pursuits like rugby, cybersecurity, and problem-solving. I believe software is more than just writing code it's about creating solutions that are reliable, scalable, and meaningful.
 
 ## 🎓 About Me
 * 📚 Computer Science student specializing in Software Engineering
@@ -18,7 +18,7 @@ My introduction to programming began with a simple question:
 
 > *"How do computers think?"*
 
-That question evolved into countless hours of learning, debugging, and building. Along the way, I've discovered that growth in technology isn't linear—it's a series of experiments, failures, and breakthroughs.
+That question evolved into countless hours of learning, debugging, and building. Along the way, I've discovered that growth in technology isn't linear it's a series of experiments, failures, and breakthroughs.
 
 Today, my focus is on becoming a well-rounded software engineer with experience across multiple domains, including:
 
