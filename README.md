@@ -1,16 +1,98 @@
-## Hi there 👋
+# Hi, I'm Katlego 👋
 
-<!--
-**Ka-tLego/Ka-tLego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Building systems, solving problems, and constantly chasing the next level—both in tech and in life."*
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in **Software Engineering**, passionate about designing software that makes an impact. My journey in technology is driven by curiosity, discipline, and a desire to continuously improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of academics, I enjoy exploring new technologies, building projects, and challenging myself through pursuits like rugby, cybersecurity, and problem-solving. I believe software is more than just writing code—it's about creating solutions that are reliable, scalable, and meaningful.
+
+## 🎓 About Me
+
+* 📚 Computer Science student specializing in Software Engineering
+* 💻 Interested in software development, system design, and emerging technologies
+* 🔐 Exploring cybersecurity and AI applications
+* 🚀 Continuously learning through personal projects and hands-on experience
+* 🌍 Based in South Africa
+
+## 🛤️ My Tech Journey
+
+My introduction to programming began with a simple question:
+
+> *"How do computers think?"*
+
+That question evolved into countless hours of learning, debugging, and building. Along the way, I've discovered that growth in technology isn't linear—it's a series of experiments, failures, and breakthroughs.
+
+Today, my focus is on becoming a well-rounded software engineer with experience across multiple domains, including:
+
+* Software Engineering
+* Cybersecurity
+* Artificial Intelligence & Machine Learning
+* System Design
+* Cloud Technologies
+* Data Science
+* Open Source Contributions
+
+My goal is to build software that solves real-world problems while continuing to grow as both an engineer and a leader.
+
+## 🧰 Tech Stack
+
+```text
+(Add your technologies here)
+
+Languages:
+- 
+
+Frontend:
+- 
+
+Backend:
+- 
+
+Databases:
+- 
+
+Tools & Platforms:
+- 
+
+Cloud & DevOps:
+- 
+```
+
+## 🚧 Featured Projects
+
+```text
+(Add your projects here)
+
+1. Project Name
+   - Short description
+   - Technologies used
+   - Link
+
+2. Project Name
+   - Short description
+   - Technologies used
+   - Link
+
+3. Project Name
+   - Short description
+   - Technologies used
+   - Link
+```
+
+## 📈 Currently Working On
+
+* Improving my software engineering skills
+* Building impactful personal projects
+* Learning more about cybersecurity and AI
+* Strengthening my understanding of system design
+* Contributing to open-source projects
+
+## 📫 Let's Connect
+
+* LinkedIn: (Add Link)
+* Email: (Add Email)
+* Portfolio: (Add Link)
+
+---
+
+> *"The expert in anything was once a beginner who refused to quit."*
