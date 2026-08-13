@@ -38,6 +38,7 @@ My goal is to build software that solves real-world problems while continuing to
 
 ## 🚧 Featured Projects
 - **[Smart Event Management & Ticketing Platform](https://github.com/Ka-tLego/WebProgramming381_Event_Project)** - Repository for our Web Programming 381 module project. An event booking platform where users are able to sign up for events while admins are able to manage and CRUD events.
+- **[PRG282_SuperHeroSystem](https://github.com/Ka-tLego/Programming_SuperHeroSystem_CSharp)** - An event booking platform where users are able to sign up for events while admins are able to manage and CRUD events.
 
 
 ## 📈 Currently Working On
